@@ -7,7 +7,7 @@
 1. 先导出原始csv格式文件
 2. 编辑csv格式文件，在前10行加上配置项
 ```csv
-url,http://192.168.7.171:8099/duxuesc/api/introtransupdate
+url,http://192.168.1.101:8099/duxuesc/api/introtransupdate
 perSecond,1
 PerCount,100
 batch,0
